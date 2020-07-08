@@ -1,2 +1,2 @@
 # hello-world
-Just testing the forums
+Testing the forums and getting to know the GitHub Tutorial
